@@ -1,2 +1,2 @@
 # AI-for-HCI
-MSAI HCI Course repo
+MSAI HCI - Human Computer Interaction Course repo
