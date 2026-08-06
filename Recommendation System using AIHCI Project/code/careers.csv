@@ -1,0 +1,31 @@
+Career,Skills,Description,Salary,WorkStyle,Experience,Learning
+Data Scientist,"python machine learning statistics sql data analysis","Analyzes large datasets to build predictive models and generate business insights.",120000,Remote,Intermediate,https://www.coursera.org/professional-certificates/ibm-data-science
+Machine Learning Engineer,"python tensorflow pytorch deep learning ai statistics","Builds, trains, and deploys machine learning models.",130000,Remote,Advanced,https://www.deeplearning.ai/
+AI Engineer,"python artificial intelligence deep learning nlp computer vision","Develops AI-powered applications and intelligent systems.",135000,Remote,Advanced,https://www.deeplearning.ai/
+Software Engineer,"python java c++ algorithms software development","Designs and develops software applications.",110000,Hybrid,Beginner,https://www.coursera.org/specializations/python
+Full Stack Developer,"html css javascript react nodejs mongodb","Builds both frontend and backend web applications.",105000,Hybrid,Intermediate,https://www.freecodecamp.org/
+Frontend Developer,"html css javascript react ui ux","Develops interactive user interfaces for websites.",95000,Remote,Beginner,https://www.freecodecamp.org/
+Backend Developer,"python java nodejs api sql database","Develops server-side applications and APIs.",105000,Hybrid,Intermediate,https://developer.mozilla.org/
+Mobile App Developer,"android ios flutter kotlin swift","Builds mobile applications for Android and iOS.",110000,Hybrid,Intermediate,https://developer.android.com/courses
+Cloud Engineer,"aws azure docker kubernetes linux networking","Designs and manages cloud infrastructure.",125000,Remote,Advanced,https://aws.amazon.com/training/
+DevOps Engineer,"docker kubernetes ci cd linux automation","Automates software deployment and infrastructure.",125000,Hybrid,Advanced,https://learn.microsoft.com/training/
+Cybersecurity Analyst,"network security linux penetration testing cryptography","Protects organizations from cyber threats.",105000,On-site,Intermediate,https://www.isc2.org/certifications/cc
+Ethical Hacker,"penetration testing kali linux networking security","Identifies vulnerabilities before attackers exploit them.",115000,On-site,Advanced,https://www.eccouncil.org/
+Database Administrator,"sql oracle mysql database tuning backup","Manages and optimizes organizational databases.",100000,Hybrid,Intermediate,https://learn.microsoft.com/training/
+Data Analyst,"excel sql tableau power bi statistics","Analyzes data and creates reports for decision-making.",90000,Hybrid,Beginner,https://www.coursera.org/professional-certificates/google-data-analytics
+Business Analyst,"communication sql excel analytics business","Bridges business requirements with technical solutions.",95000,Hybrid,Intermediate,https://www.coursera.org/professional-certificates/google-business-intelligence
+Data Engineer,"python sql spark hadoop etl","Builds pipelines for collecting and processing large datasets.",125000,Hybrid,Advanced,https://www.databricks.com/learn
+Cloud Architect,"aws azure architecture networking security","Designs enterprise cloud solutions.",145000,Remote,Advanced,https://aws.amazon.com/certification/
+Network Engineer,"networking routers switches tcp ip cisco","Designs and maintains computer networks.",95000,On-site,Intermediate,https://www.netacad.com/
+Systems Administrator,"windows linux servers virtualization","Maintains enterprise IT infrastructure.",90000,On-site,Intermediate,https://learn.microsoft.com/training/
+UX Designer,"figma wireframes prototyping user research creativity","Designs intuitive and user-friendly digital experiences.",95000,Remote,Beginner,https://www.coursera.org/professional-certificates/google-ux-design
+UI Designer,"figma adobe xd photoshop creativity design","Creates visually appealing user interfaces.",90000,Remote,Beginner,https://www.interaction-design.org/
+Graphic Designer,"photoshop illustrator branding typography creativity","Creates graphics, branding materials, and marketing assets.",80000,Hybrid,Beginner,https://www.adobe.com/learn
+Digital Marketer,"seo social media analytics advertising content","Promotes brands through digital marketing strategies.",85000,Remote,Beginner,https://grow.google/certificates/digital-marketing-ecommerce/
+Product Manager,"leadership agile communication product strategy","Leads product development and business strategy.",130000,Hybrid,Advanced,https://www.coursera.org/professional-certificates/ibm-product-manager
+Project Manager,"leadership planning scrum communication budgeting","Plans and oversees projects from start to finish.",110000,Hybrid,Intermediate,https://www.pmi.org/
+Financial Analyst,"finance excel accounting forecasting economics","Evaluates financial data and investment opportunities.",95000,Hybrid,Intermediate,https://corporatefinanceinstitute.com/
+Accountant,"accounting taxation excel auditing finance","Prepares financial records and ensures regulatory compliance.",80000,On-site,Beginner,https://www.coursera.org/professional-certificates/intuit-bookkeeping
+Healthcare Data Analyst,"healthcare sql statistics excel analytics","Analyzes healthcare data to improve patient outcomes.",98000,Hybrid,Intermediate,https://www.coursera.org/
+Biomedical Engineer,"biology engineering medical devices research","Designs medical equipment and healthcare technologies.",110000,On-site,Advanced,https://www.edx.org/
+Research Scientist,"research mathematics python statistics experimentation","Conducts scientific research and develops innovative solutions.",125000,On-site,Advanced,https://www.coursera.org/
